@@ -1,0 +1,8 @@
+[package]
+name = "fizz_buzz_parallel"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+name = "fizz_buzz_parallel"
+crate-type = ["cdylib"]
